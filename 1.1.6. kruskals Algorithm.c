@@ -1,3 +1,5 @@
+#define INF 9999
+
 typedef struct {
     int src, dest, weight;
 } Edge;
